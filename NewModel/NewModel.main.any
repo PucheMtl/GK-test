@@ -158,7 +158,7 @@ Main = {
 AnyFolder Muscles = {
    // Simple muscle model with constant strength = 400 Newton
   AnyMuscleModel MusMdl = {
-    F0 = 400;
+    F0 = 800;
   };
     //---------------------------------
    AnyViaPointMuscle Brachialis = {
